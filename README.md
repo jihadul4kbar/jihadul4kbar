@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on STMIK Lombok
+- 🌱 I’m currently learning Computer Vision, Natural Laguage Processing
+
+
+
 
 <!--
 **jihadul4kbar/jihadul4kbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
