@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on STMIK Lombok
-- 🌱 I’m currently learning Computer Vision, Natural Laguage Processing
+- 🔭 I’m Lecturer of STMIK Lombok 
+- 🌱 I'm love Artificial intelligence, Natural Language Processing and Web Software Developer
 
 
 
